@@ -1,1 +1,2 @@
-Click on the .CPP file to view the source code and click on the .exe to play the game.
+# Click the .CPP file to view the source code.
+# Click on the .exe to play the game.
